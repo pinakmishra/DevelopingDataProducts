@@ -27,11 +27,9 @@ knit        : slidify::knit2slides
 - An awesome slidify presentation shows the relationship between variables and miles per gallon (MPG).
 
 ### Get all SourceCode @Github:
-
 ```
-git clone https://github.com/swhgoon/devdataprod-cp.git
+git clone https://github.com/pinakmishra/DevelopingDataProducts.git
 ```
-
 --- .class #id 
 
 ## mtcars dataset - Description
