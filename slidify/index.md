@@ -6,7 +6,7 @@ job         : Presentation
 logo        : logo.jpg
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
+hitheme     : solarized      # 
 widgets     : [bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
@@ -15,15 +15,16 @@ knit        : slidify::knit2slides
 ## Deployed App
 
 ### Automatic Vs Manual Regression Models Course Project  
-- URL: *http://swhgoon.github.io/devdataprod-cp/part0_regmods-mtcars.html*
-- Difference of the MPG between automatic and manual transmissions is focused in Part0.
+- URL: *https://github.com/pinakmishra/DevelopingDataProducts/blob/master/documentation/AutomaticVsManual.html*
+- Difference of the MPG between automatic and manual transmissions is focused in regression model project repost.
 
 ### Shiny Application  
-- URL: *https://swhgoon.shinyapps.io/part1_devdataprod-shiny/*
+- URL: *https://github.com/pinakmishra/DevelopingDataProducts/tree/master/shiny*
 - A shiny-App shows the relationship between variables and miles per gallon (MPG).
 
 ### Reproducible Pitch Presentation  slidify
-- URL: *http://swhgoon.github.io/devdataprod-cp/part2_devdataprod-slidify*
+- URL: *https://github.com/pinakmishra/DevelopingDataProducts/tree/master/slidify*
+- An awesome slidify presentation shows the relationship between variables and miles per gallon (MPG).
 
 ### Get all SourceCode @Github:
 

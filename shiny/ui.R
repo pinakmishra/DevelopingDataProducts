@@ -64,11 +64,11 @@ shinyUI(
                       )
              ),
              tabPanel("SourceCode",
-                      p("part1_devdataprod-shiny"),
-                      a("https://github.com/pinakmishra/DevelopingDataProducts/shiny")
+                      p("shiny app source code"),
+                      a("https://github.com/pinakmishra/DevelopingDataProducts/tree/master/shiny")
              ),
              tabPanel("Special",
-                      a("https://github.com/pinakmishra/DevelopingDataProducts/documentation/AutomaticVsManual.html"),
+                      a("https://github.com/pinakmishra/DevelopingDataProducts/blob/master/documentation/AutomaticVsManual.html"),
                       hr(),
                       tags$iframe(src="AutomaticVsManual.html", 
                                   width="100%", height=800, frameborder=0, 
